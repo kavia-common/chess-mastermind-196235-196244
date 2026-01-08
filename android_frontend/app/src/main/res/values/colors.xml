@@ -1,0 +1,17 @@
+<resources>
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorPrimaryDark">#1D4ED8</color>
+    <color name="colorAccent">#F59E0B</color>
+
+    <color name="bg">#F9FAFB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="textPrimary">#111827</color>
+    <color name="textSecondary">#6B7280</color>
+
+    <color name="boardLight">#EEEED2</color>
+    <color name="boardDark">#769656</color>
+
+    <color name="highlightSelect">#F59E0B</color>
+    <color name="highlightMove">#93C5FD</color>
+    <color name="highlightCapture">#FCA5A5</color>
+</resources>

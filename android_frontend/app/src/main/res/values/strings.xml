@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chess Mastermind</string>
+
+    <string name="new_game">New Game</string>
+    <string name="undo">Undo</string>
+    <string name="mode_pvp">Mode: PvP</string>
+    <string name="mode_ai">Mode: vs AI</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="moves">Moves</string>
+    <string name="captured">Captured</string>
+</resources>
